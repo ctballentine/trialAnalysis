@@ -4,6 +4,7 @@ trialAnalysis
 alters data frame for coursera class project in R
 
 VARIABLES
+
 fileUrl--the web adress from which to download data
 
 subTestTemp--temporary storage for test subject data
@@ -59,6 +60,7 @@ finalFrame--rempty data frame that is filled via for loop that makes computation
 
 
 HOW IT WORKS
+
 this scripts first merges the training and test data for subjects, features and activites
 
 Secondly it extracts certain data that coincides with means and standarad deviation according to a key stored in a numeric vector
